@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello stranger! 👋
 
-Hello stranger!
+
 I'm a creative software developer and tech Entrepreneur.
 
 - 🔭 I’m currently working as a solo developer, Freelancer
