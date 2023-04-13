@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Furkanakguun/Furkanakguun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello stranger!
 I'm a creative software developer and tech Entrepreneur.
 
@@ -14,4 +11,4 @@ I'm a creative software developer and tech Entrepreneur.
 - 📫 How to reach me: https://twitter.com/fakkkgun
 - 😄 Pronouns: https://fakgun.com/
 - ⚡ Fun fact: https://www.getnightin.com/
--->
+
